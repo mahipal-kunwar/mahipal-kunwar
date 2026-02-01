@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="ht!-- ================= HERO SECTION ================= -->
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+there!+👋;I+am+Mahipal+Singh+Kunwar;Full-Stack+Python+Developer+%7C+Django+%7C+REST+APIs;Building+Modern+&+Scalable+Web+Applications;0-1+Year+Project-Based+Experience" />
 </p>
 
@@ -8,11 +10,9 @@
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/ba0e3940ab85a8393f814c5c4b0d74c9e2b9b52e941d6b5290e3a15b3e35db7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d436f64696e672d2d627269676874677265656e3f7374796c653d666c6174266c6f676f3d636f64696e67" alt="Coding Animation" width="120" />
-</p> 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=4F9DFF&center=true&vCenter=true&width=800&lines=Mahipal+Singh+Kunwar;Full-Stack+Python+Developer;Django+%7C+REST+APIs+%7C+SQL;Building+Scalable+Backend+Systems;Interview+Ready+Projects" />
 </p>
 
+---
 ---
 
 ## 👋 About Me
