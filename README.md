@@ -55,13 +55,13 @@ A **full-scale, interview-ready web application** to automate student, teacher, 
 - Razorpay for payments
 
 **Key Features**
-- ✅ Secure authentication & authorization (Admin / Teacher / Student)  
-- ✅ Role-based dashboards with access control  
-- ✅ CRUD operations for all modules  
-- ✅ Attendance & notice management  
-- ✅ Fee management with online payment integration  
-- ✅ Clean backend architecture  
-- ✅ Responsive & modern UI with animations  
+- Secure authentication & authorization (Admin / Teacher / Student)  
+- Role-based dashboards with access control  
+- CRUD operations for all modules  
+- Attendance & notice management  
+- Fee management with online payment integration  
+- Clean backend architecture  
+- Responsive & modern UI with animations  
 
 **Level:** Intermediate (Production-oriented)
 
@@ -137,5 +137,5 @@ Pin ONLY these for maximum impact:
 ## 🏆 Achievements
 
 <p align="center">
-Made with ❤️ by **Mahipal Singh Kunwar**  
+Made with by **Mahipal Singh Kunwar**  
 </p>
