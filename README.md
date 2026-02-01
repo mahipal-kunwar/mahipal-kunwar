@@ -1,17 +1,12 @@
 <p align="center">
-  <img src="ht!-- ================= HERO SECTION ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+there!+👋;I+am+Mahipal+Singh+Kunwar;Full-Stack+Python+Developer+%7C+Django+%7C+REST+APIs;Building+Modern+&+Scalable+Web+Applications;0-1+Year+Project-Based+Experience" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AAFFF,100:7F00FF&height=220&section=header&text=Mahipal%20Kunwar&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahipal-kunwar&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+<h3 align="center">🚀 Python Full Stack Developer | Django Specialist | Backend Engineer</h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/ba0e3940ab85a8393f814c5c4b0d74c9e2b9b52e941d6b5290e3a15b3e35db7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d436f64696e672d2d627269676874677265656e3f7374796c653d666c6174266c6f676f3d636f64696e67" alt="Coding Animation" width="120" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Backend+Engineer;Building+Scalable+Web+Applications;Clean+Code+%7C+Real+World+Projects;Interview-Ready+Developer" />
 </p>
-
 ---
 ---
 
