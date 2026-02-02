@@ -69,8 +69,8 @@ A full-scale web application designed to manage academic and administrative work
 
 ## 🌐 Connect
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: (add when ready)
+- GitHub: https://github.com/mahipal-kunwar
+- LinkedIn:https://linkdin.com/mahipal-singh-kunwar
 
 ---
 
