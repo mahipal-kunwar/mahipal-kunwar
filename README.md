@@ -1,91 +1,77 @@
-# 👋 Hi, I'm Mahipal Kunwar
+# Hi, I'm Mahipal Kunwar 👋
 
-**Python Full-Stack Developer | Django & REST API Specialist**
+**Full-Stack Python Developer**  
+*Django • REST APIs • Modern Frontend*
 
-I build scalable, secure, and user-focused web applications with a strong emphasis on clean backend architecture and modern, responsive UI
+I build scalable, secure, and user-focused web applications with a strong emphasis on clean backend architecture and modern, responsive UI.
 
 ---
 
-## 💼 Professional Summary
+## 🧠 What I Do
 
-- Entry-level developer with **strong project-based experience**
-- Specialized in **Django backend development**
-- Experienced in **authentication systems, REST APIs, and payment integrations**
-- Focused on writing **clean, maintainable, and scalable code**
+- Design and develop **production-ready Django applications**
+- Build **secure authentication & role-based access systems**
+- Create **REST APIs** for real-world use cases
+- Develop **clean, responsive frontend interfaces**
+- Integrate third-party services like **payments & email systems**
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend**
-- Python, Django, Django REST Framework
+**Backend**  
+Python, Django, Django REST Framework
 
-**Frontend**
-- HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
+**Frontend**  
+HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
 
-**Database**
-- MySQL, SQLite
+**Database**  
+MySQL, SQLite
 
-**Integrations**
-- Razorpay (Payments)
-- Cloudinary (Media Storage)
-- SMTP (Gmail)
-
-**Architecture**
-- REST APIs
-- Role-Based Access Control
-- Secure Authentication & Authorization
+**Tools & Integrations**  
+Razorpay, Cloudinary, SMTP (Gmail), Git & GitHub
 
 ---
 
 ## 🚀 Featured Project
 
-### 🏫 School Management System (Django)
+### School Management System (Django)
 
-A full-scale, interview-ready web application designed to automate academic and administrative workflows.
+A full-scale web application designed to manage academic and administrative workflows.
 
-**Key Highlights**
+**Highlights**
 - Role-based dashboards (Admin / Teacher / Student)
 - Secure authentication & authorization
-- Attendance & notice management
-- Fee management with Razorpay payment integration
-- Clean backend architecture & modular design
+- Attendance, notices, and fee management
+- Payment integration (Razorpay)
+- Clean, modular backend architecture
 - Responsive and modern UI
 
-**Tech Used**
-- Django, HTML, CSS, JavaScript
-- MySQL / SQLite
-- Cloudinary, Razorpay
-
-🔒 *Private Repository (Available for interview/demo purposes)*
+🔒 *Private repository — available for demo and interview discussion*
 
 ---
 
-## 💡 Core Strengths
+## 📜 Certifications
 
-- Clean & structured backend development
-- Authentication & access control systems
-- REST API design
-- Database design & CRUD operations
-- Payment gateway integration
-- Debugging & optimization
+- **Python for Web Development** — IBM Developer Skills Network  
+  *(Credential available on request)*
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Improving
 
-- React.js
 - Advanced Django REST Framework
-- Docker fundamentals
+- React.js fundamentals
 - System design basics
+- Writing cleaner, more scalable code
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
-- GitHub: https://github.com/mahipal-kunwar
-- LinkedIn: (mahipal-singh-kunwar)
+- GitHub: https://github.com/your-username  
+- LinkedIn: (add when ready)
 
 ---
 
-> *I focus on building real-world applications that are production-oriented, scalable, and secure.*
+*Focused on building real-world applications with clean code and long-term scalability.*
