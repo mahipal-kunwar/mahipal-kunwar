@@ -128,5 +128,5 @@ A **full-scale, interview-ready web application** to automate student, teacher, 
 ---
 
 <p align="center">
-Made with ❤️ by **Mahipal Singh Kunwar**  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:0AAFFF&height=120&section=footer"/>
 </p>
