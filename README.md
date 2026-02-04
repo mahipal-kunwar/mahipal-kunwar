@@ -50,7 +50,12 @@ A full-scale web application designed to manage academic and administrative work
 🔒 *Private repository — available for demo and interview discussion*
 
 ---
+Render
+🌐 Live Demo
+   Check out the live project here:
+   School Management System Live
 
+---
 ## 📜 Certifications
 
 - **Python for Web Development** — IBM Developer Skills Network  
