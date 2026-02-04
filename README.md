@@ -51,9 +51,7 @@ A full-scale web application designed to manage academic and administrative work
 
 ---
 Render
-🌐 Live Demo
-   Check out the live project here:
-   School Management System Live
+🌐 Live Project:https://school-management-system-amwe.onrender.com
 
 ---
 ## 📜 Certifications
