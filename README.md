@@ -1,80 +1,83 @@
-# Hi, I'm Mahipal Kunwar 👋
+<!-- ============================= -->
+<!-- 🚀 MAHIPAL KUNWAR - PORTFOLIO -->
+<!-- ============================= -->
 
-**Full-Stack Python Developer**  
-*Django • REST APIs • Modern Frontend*
+# 👨‍💻 Hi, I'm Mahipal Kunwar
 
-I build scalable, secure, and user-focused web applications with a strong emphasis on clean backend architecture and modern, responsive UI.
+## 🧠 Full-Stack Python Developer | Django | Modern Web Architecture
 
----
-
-## 🧠 What I Do
-
-- Design and develop **production-ready Django applications**
-- Build **secure authentication & role-based access systems**
-- Create **REST APIs** for real-world use cases
-- Develop **clean, responsive frontend interfaces**
-- Integrate third-party services like **payments & email systems**
+I specialize in designing scalable backend systems and crafting modern responsive web applications. My focus is on writing clean, secure, and production-ready code that supports real-world business workflows. I believe in building software that is not only functional but also maintainable, efficient, and professionally structured.
 
 ---
 
-## 🛠 Tech Stack
+## 💡 Core Expertise
 
-**Backend**  
-Python, Django, Django REST Framework
+My development approach revolves around creating high-quality backend architectures using Django ecosystem technologies. I build secure authentication systems, implement role-based authorization, and develop REST APIs suitable for real business applications. Alongside backend engineering, I design modern frontend interfaces that are responsive, clean, and user friendly.
 
-**Frontend**  
-HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
-
-**Database**  
-MySQL, SQLite
-
-**Tools & Integrations**  
-Razorpay, Cloudinary, SMTP (Gmail), Git & GitHub
+I also integrate third-party services such as payment gateways, email automation systems, and cloud storage solutions to create complete full-stack platforms.
 
 ---
 
-## 🚀 Featured Project
+## 🛠 Technical Stack
 
-### School Management System (Django)
+### Backend Engineering  
+Python • Django • Django REST Framework
 
-A full-scale web application designed to manage academic and administrative workflows.
+### Frontend Development  
+HTML5 • CSS3 • JavaScript • Bootstrap • Tailwind CSS
 
-**Highlights**
-- Role-based dashboards (Admin / Teacher / Student)
-- Secure authentication & authorization
-- Attendance, notices, and fee management
-- Payment integration (Razorpay)
-- Clean, modular backend architecture
-- Responsive and modern UI
+### Database Systems  
+MySQL • SQLite
 
-🔒 *Private repository — available for demo and interview discussion*
+### Dev Tools & Integrations  
+Git & GitHub • Razorpay Payment Gateway • SMTP Email Services • Cloud Storage Solutions
 
 ---
-Render
-🌐 Live Project:https://school-management-system-amwe.onrender.com
+
+## 🎯 Featured Project — School Management System
+
+I developed a full-scale academic management platform using Django, designed to streamline administrative and educational operations.
+
+Key capabilities of the system include secure authentication, role-based dashboards for administrators, teachers, and students, automated attendance tracking, notice management, fee processing workflows, and payment gateway integration.
+
+The interface is built to be modern, responsive, and optimized for real-world usage scenarios.
+
+🌐 Live Demo  
+https://school-management-system-amwe.onrender.com  
+
+⭐ Private repository available for interview demonstrations.
 
 ---
+
 ## 📜 Certifications
 
-- **Python for Web Development** — IBM Developer Skills Network  
-  *(Credential available on request)*
+Python for Web Development — IBM Developer Skills Network  
+(Certification details available upon request)
 
 ---
 
 ## 📚 Currently Improving
 
-- Advanced Django REST Framework
-- React.js fundamentals
-- System design basics
-- Writing cleaner, more scalable code
+Advanced Django REST Framework architecture  
+React.js fundamentals for modern frontend development  
+System design and scalable backend engineering principles  
 
 ---
 
-## 🌐 Connect
+## 📬 Professional Contact
 
-- GitHub: https://github.com/mahipal-kunwar
-- LinkedIn:https://linkdin.com/mahipal-singh-kunwar
+📧 Gmail: **mahipalkunwar2003@gmail.com**  
+
+🌐 Portfolio Website:  
+👉 https://yourportfolio.com (Replace with your portfolio link)
 
 ---
 
-*Focused on building real-world applications with clean code and long-term scalability.*
+## ⭐ Let’s Build Something Amazing Together
+Open to internships, full-time opportunities, and collaborative development projects.
+
+---
+
+<!-- ============================= -->
+<!-- END OF PROFILE -->
+<!-- ============================= -->
