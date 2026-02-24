@@ -69,7 +69,7 @@ System design and scalable backend engineering principles
 📧 Gmail: **mahipalkunwar2003@gmail.com**  
 
 🌐 Portfolio Website:  
-👉 https://yourportfolio.com (Replace with your portfolio link)
+👉 https://personal-portfolio-theta-blush-60.vercel.app
 
 ---
 
