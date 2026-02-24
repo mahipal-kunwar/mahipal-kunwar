@@ -1,83 +1,114 @@
-<!-- ============================= -->
-<!-- 🚀 MAHIPAL KUNWAR - PORTFOLIO -->
-<!-- ============================= -->
-
-# 👨‍💻 Hi, I'm Mahipal Kunwar
-
-## 🧠 Full-Stack Python Developer | Django | Modern Web Architecture
-
-I specialize in designing scalable backend systems and crafting modern responsive web applications. My focus is on writing clean, secure, and production-ready code that supports real-world business workflows. I believe in building software that is not only functional but also maintainable, efficient, and professionally structured.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=28&duration=2500&pause=500&color=00F7FF&center=true&vCenter=true&width=700&lines=Mahipal+Kunwar;Full+Stack+Python+Developer;Django+Developer" />
+</p>
 
 ---
 
-## 💡 Core Expertise
+## 👋 About Me
 
-My development approach revolves around creating high-quality backend architectures using Django ecosystem technologies. I build secure authentication systems, implement role-based authorization, and develop REST APIs suitable for real business applications. Alongside backend engineering, I design modern frontend interfaces that are responsive, clean, and user friendly.
+I am a Full Stack Python Developer focused on building practical, production-ready web applications.
 
-I also integrate third-party services such as payment gateways, email automation systems, and cloud storage solutions to create complete full-stack platforms.
+I specialize in backend development using Django ecosystem and modern frontend technologies.
 
----
-
-## 🛠 Technical Stack
-
-### Backend Engineering  
-Python • Django • Django REST Framework
-
-### Frontend Development  
-HTML5 • CSS3 • JavaScript • Bootstrap • Tailwind CSS
-
-### Database Systems  
-MySQL • SQLite
-
-### Dev Tools & Integrations  
-Git & GitHub • Razorpay Payment Gateway • SMTP Email Services • Cloud Storage Solutions
+I prefer writing clean, structured, and maintainable code that can be scaled in real-world deployment environments.
 
 ---
 
-## 🎯 Featured Project — School Management System
+## 💡 What I Do
 
-I developed a full-scale academic management platform using Django, designed to streamline administrative and educational operations.
+- Develop web applications using Django framework  
+- Build authentication and role-based access systems  
+- Design REST APIs for application integration  
+- Create responsive frontend interfaces  
+- Integrate third-party services like payment and email automation  
 
-Key capabilities of the system include secure authentication, role-based dashboards for administrators, teachers, and students, automated attendance tracking, notice management, fee processing workflows, and payment gateway integration.
+---
 
-The interface is built to be modern, responsive, and optimized for real-world usage scenarios.
+## 🛠 Tech Stack
 
-🌐 Live Demo  
+### Backend
+- Python  
+- Django  
+- Django REST Framework  
+
+### Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
+- Bootstrap  
+- Tailwind CSS  
+
+### Database
+- MySQL  
+- SQLite  
+
+### Tools & Services
+- Git & GitHub  
+- Razorpay Payment Integration  
+- SMTP Email Service  
+- Cloud Deployment
+
+---
+
+## 🚀 Featured Project
+
+### 🎓 School Management System (Django)
+
+A web-based academic management platform designed for institutional workflow automation.
+
+### Features
+
+✔ Multi-role authentication (Admin, Teacher, Student)  
+✔ Attendance management system  
+✔ Notice board management  
+✔ Fee tracking workflow  
+✔ Payment gateway integration  
+✔ Responsive modern UI  
+
+🌐 Live Project Demo  
 https://school-management-system-amwe.onrender.com  
 
-⭐ Private repository available for interview demonstrations.
+⭐ Private repository available for interview discussion.
 
 ---
 
-## 📜 Certifications
+## 🌐 Portfolio Website
 
-Python for Web Development — IBM Developer Skills Network  
-(Certification details available upon request)
+👉 https://personal-portfolio-theta-blush-60.vercel.app  
 
 ---
 
 ## 📚 Currently Improving
 
-Advanced Django REST Framework architecture  
-React.js fundamentals for modern frontend development  
-System design and scalable backend engineering principles  
+- Advanced Django REST Framework  
+- React.js Basics  
+- System Design Fundamentals  
+- Backend Architecture Design  
 
 ---
 
-## 📬 Professional Contact
+## 📜 Certifications
 
-📧 Gmail: **mahipalkunwar2003@gmail.com**  
-
-🌐 Portfolio Website:  
-👉 https://personal-portfolio-theta-blush-60.vercel.app
+- Python for Web Development – IBM Developer Skills Network  
+  (Certificate available on request)
 
 ---
 
-## ⭐ Let’s Build Something Amazing Together
-Open to internships, full-time opportunities, and collaborative development projects.
+## 📬 Contact
+
+📧 Email: **mahipalkunwar2003@gmail.com**
+
+🌐 Portfolio:  
+https://personal-portfolio-theta-blush-60.vercel.app  
 
 ---
 
-<!-- ============================= -->
-<!-- END OF PROFILE -->
-<!-- ============================= -->
+## ⚡ Career Goal
+
+To grow as a strong software developer specializing in scalable backend systems and modern web application development.
+
+---
+
+<p align="center">
+⭐ Open to Internship | Full-Time Opportunities | Collaboration
+</p>
