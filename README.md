@@ -1,32 +1,42 @@
-<h1 align="center">Mahipal Singh Kunwar</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="banner.jpg" alt="banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Mahipal Singh Kunwar</h1>
+<h3 align="center">Python • Django • Backend Developer</h3>
+
+---
+
+## 🚀 About Me
+- 💻 Passionate Backend Developer
+- 🌱 Currently learning Django & React
+- ⚡ Focused on building real-world projects
+
+---
+
+## 🛠️ Languages & Tools
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Python+Full+Stack+Developer;Django+Developer;Django+REST+Framework;Currently+Learning+React" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,mysql,bootstrap,git,github,vercel" />
 </p>
 
 ---
 
-## 🚀 Languages & Tools I Use
+## 📫 Connect with Me
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,mysql,git,github,react,vercel&perline=6" />
-</p>
+  <a href="https://www.linkedin.com/in/mahipal-singh-kunwar">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="mailto:mahipalkunwar.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+  </a>
 
----
-
-## ⚡ Development & Deployment
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=render,vercel" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="https://instagram.com/mahipal_kunwar02">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
+  </a>
 </p>
 
 ---
@@ -34,9 +44,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mahipal-kunwar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahipal-kunwar&theme=tokyonight" />
-</p>
+---
+
+## 📌 Pinned Projects
+👉 Add your best projects here (baad me pin kar dena GitHub se)
+
+---
