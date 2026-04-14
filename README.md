@@ -43,12 +43,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=mahipal-kunwar&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>---
 
-🔥 Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahipal-kunwar&label=Profile%20Views&color=blue&style=flat" />
-</p>---
-
+  <img src="https://komarev.com/ghpvc/?username=mahipal-kunwar&label=Visitors&color=blueviolet&style=for-the-badge" />
+</p>
 🌐 Connect With Me
 
 <p align="center">
