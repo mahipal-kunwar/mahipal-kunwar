@@ -42,7 +42,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mahipal-kunwar&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>---
-
+🔥 Profile view
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahipal-kunwar&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
