@@ -5,11 +5,12 @@
 </p>---
 
 🚀 Tech Stack
+<
 
 ⚡ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask" />
+  <img src="https://skillicons.dev/icons?i=python,django" />
 </p>🎨 Frontend
 
 <p align="center">
@@ -21,7 +22,7 @@
 </p>🛠️ Tools & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 </p>---
 
 📊 GitHub Analytics
