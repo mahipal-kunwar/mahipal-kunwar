@@ -57,7 +57,7 @@
   <a href="https://www.linkedin.com/in/mahipal-singh-kunwar">
     <img src="https://img.shields.io/badge/LinkedIn-Mahipal%20Singh%20Kunwar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:mahipalkunwar.tech@gmail.com">
+  <a href="mailto:mahipalkunwar2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-mahipalkunwar.tech%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://instagram.com/mahipal_kunwar02">
