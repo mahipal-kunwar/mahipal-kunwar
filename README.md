@@ -4,12 +4,7 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="26%" align="center">
-<img src="https://github.com/mahipal-kunwar.png" width="190" style="border-radius:50%; border: 3px solid #38BDF8;"/>
-</td>
-<td width="74%">
+<img align="left" src="https://github.com/mahipal-kunwar.png" width="180" style="border-radius:50%; margin-right:25px;"/>
 
 # Hi, I'm Mahipal Singh Kunwar 👋
 
@@ -19,10 +14,7 @@
 <img src="https://img.shields.io/github/followers/mahipal-kunwar?label=Followers&style=flat-square&color=38BDF8" alt="Followers"/>
 <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square&color=22C55E" alt="Open to work"/>
 
-</td>
-</tr>
-</table>
-
+<br clear="left"/>
 <br/>
 
 ## 🧑‍💻 About Me
@@ -70,12 +62,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahipal-kunwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=mahipal-kunwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mahipal-kunwar&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahipal-kunwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="55%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mahipal-kunwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="55%"/>
 
 </div>
 
