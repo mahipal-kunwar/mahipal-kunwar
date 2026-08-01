@@ -4,15 +4,13 @@
 
 <br/>
 
-<img align="left" src="https://github.com/mahipal-kunwar.png" width="180" style="border-radius:50%; margin-right:25px;"/>
+<img align="left" src="https://github.com/mahipal-kunwar.png" width="170" style="border-radius:50%; border:5px solid #38BDF8; padding:4px; background:#0F172A; margin-right:25px; margin-bottom:10px;"/>
 
 # Hi, I'm Mahipal Singh Kunwar 👋
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=false&vCenter=true&width=560&lines=Python+Full+Stack+Developer;Django+%2B+DRF+%7C+REST+APIs;Building+Clean%2C+Scalable+Backends;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=mahipal-kunwar&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/mahipal-kunwar?label=Followers&style=flat-square&color=38BDF8" alt="Followers"/>
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square&color=22C55E" alt="Open to work"/>
+<img src="https://komarev.com/ghpvc/?username=mahipal-kunwar&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile views"/> <img src="https://img.shields.io/github/followers/mahipal-kunwar?label=Followers&style=flat-square&color=38BDF8" alt="Followers"/> <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square&color=22C55E" alt="Open to work"/>
 
 <br clear="left"/>
 <br/>
@@ -73,14 +71,6 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mahipal-kunwar&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies"/>
-</div>
-
-<br/>
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -93,6 +83,9 @@
 
 <div align="center">
 
+<a href="https://mahipal-portfolio-liart.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="https://linkedin.com/in/mahipal-singh-kunwar" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
