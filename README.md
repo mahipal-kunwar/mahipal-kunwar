@@ -1,33 +1,38 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Mahipal%20Singh%20Kunwar&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Python%20%7C%20Django%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+%2B+DRF+%7C+REST+APIs;Turning+Ideas+Into+Scalable+Backends;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:38BDF8&height=6&section=header" width="100%"/>
+</div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mahipal-kunwar&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/mahipal-kunwar?label=Followers&style=for-the-badge&color=38BDF8" alt="Followers"/>
+<table width="100%">
+<tr>
+<td width="26%" align="center">
+<img src="https://github.com/mahipal-kunwar.png" width="190" style="border-radius:50%; border: 3px solid #38BDF8;"/>
+</td>
+<td width="74%">
 
-</div>
+# Hi, I'm Mahipal Singh Kunwar 👋
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=false&vCenter=true&width=560&lines=Python+Full+Stack+Developer;Django+%2B+DRF+%7C+REST+APIs;Building+Clean%2C+Scalable+Backends;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<img src="https://komarev.com/ghpvc/?username=mahipal-kunwar&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/mahipal-kunwar?label=Followers&style=flat-square&color=38BDF8" alt="Followers"/>
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square&color=22C55E" alt="Open to work"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 🧑‍💻 About Me
 
-```python
-class MahipalSinghKunwar:
-    def __init__(self):
-        self.role         = "Python Full Stack Developer"
-        self.stack        = ["Python", "Django", "DRF", "React", "PostgreSQL"]
-        self.currently    = "Building REST APIs & backend systems with Django REST Framework"
-        self.learning     = ["Docker", "Celery", "System Design"]
-        self.fun_fact     = "I enjoy turning messy requirements into clean, working APIs ⚡"
-        self.contact      = "mahipalkunwar.tech@gmail.com"
-
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something great! 👋")
-```
+- 🎯 Aspiring **Python Full Stack Developer** with hands-on experience building REST APIs using **Django & Django REST Framework**
+- 🔭 Currently deepening my backend skills — working on real projects involving authentication, database design, and clean API architecture
+- 🌱 Exploring **Docker, Celery**, and **System Design** to build production-ready, scalable applications
+- 🤝 Open to backend / full-stack opportunities where I can contribute and keep growing
+- 💬 Always happy to talk Python, Django, REST APIs, or backend architecture
+- 📫 Reach me at **mahipalkunwar.tech@gmail.com**
 
 <br/>
 
@@ -36,19 +41,25 @@ class MahipalSinghKunwar:
 <div align="center">
 
 **Backend**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
 
-**Frontend**
+<br/><br/>
 
+**Frontend**
+<br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 
-**Database**
+<br/><br/>
 
+**Database**
+<br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
 
-**Tools & DevOps**
+<br/><br/>
 
+**Tools & DevOps**
+<br/>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
 
 </div>
@@ -105,5 +116,5 @@ class MahipalSinghKunwar:
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=100&section=footer" width="100%"/>
 </div>
