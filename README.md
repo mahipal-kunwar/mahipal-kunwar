@@ -30,28 +30,6 @@
 
 <br/>
 
-## 🚀 Featured Projects
-
-<!-- REPLACE THE PLACEHOLDERS BELOW with your real repos. This section matters more than
-     every badge in this file combined — it's the actual proof behind the "Django & DRF" claim above.
-     Format for each repo card:
-     [![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=mahipal-kunwar&repo=YOUR-REPO-NAME)](https://github.com/mahipal-kunwar/YOUR-REPO-NAME)
-     Pick 3, ideally: one full backend project (auth + DB + API), one smaller focused one
-     (Docker/Celery/testing), and one that shows you can ship something end-to-end. -->
-
-<div align="center">
-
-<a href="https://github.com/mahipal-kunwar" target="_blank">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=mahipal-kunwar&repo=REPLACE-WITH-REPO-1" />
-</a>
-<a href="https://github.com/mahipal-kunwar" target="_blank">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=mahipal-kunwar&repo=REPLACE-WITH-REPO-2" />
-</a>
-
-</div>
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
