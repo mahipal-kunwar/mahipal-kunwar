@@ -17,7 +17,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎯 Aspiring **Python Full Stack Developer** with hands-on experience building REST APIs using **Django & Django REST Framework**
+- 🎯 Aspiring **Python Full Stack Developer** with hands-on experience building REST APIs using **Django & DRF**
 - 🔭 Currently deepening my backend skills — working on real projects involving authentication, database design, and clean API architecture
 - 🌱 Exploring **Docker, Celery**, and **System Design** to build production-ready, scalable applications
 - 🤝 Open to backend / full-stack opportunities where I can contribute and keep growing
