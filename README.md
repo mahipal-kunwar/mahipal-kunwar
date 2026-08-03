@@ -30,6 +30,11 @@
 
 <br/>
 
+<!-- FEATURED PROJECTS: intentionally left out for now — real projects aren't pinned yet.
+     Once 2-3 solid Django/DRF repos are ready and pinned, add a section here using:
+     [![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=mahipal-kunwar&repo=YOUR-REPO-NAME)](https://github.com/mahipal-kunwar/YOUR-REPO-NAME)
+     An empty/placeholder version of this looks worse than not having it at all. -->
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -59,12 +64,24 @@
 
 ## 📊 GitHub Stats
 
+<!-- Stars/PRs/Issues/Contributed-to are hidden below since they're all 0 right now — showing
+     four zeros together reads worse than just showing commits. Re-enable (remove the &hide=...
+     part) once these have real values.
+
+     "Most Used Languages" card is intentionally removed for now — it currently shows JS as the
+     top language, which contradicts the Python/Django positioning above. Fix this the right way
+     (pick one, don't just hide it forever):
+       1. If old JS repos are just tutorial/practice work, exclude them from the calculation:
+          add &exclude_repo=repo-name-1,repo-name-2 to the top-langs URL below, then add the
+          card back in.
+       2. Push more real Django/DRF work — the percentage will shift naturally over time.
+     Card to re-add once fixed:
+     ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=mahipal-kunwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=repo-name-1,repo-name-2) -->
+
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=mahipal-kunwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=mahipal-kunwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide=stars,prs,issues,contribs" alt="GitHub Stats"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=mahipal-kunwar&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-<br/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mahipal-kunwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="55%"/>
 
 </div>
 
