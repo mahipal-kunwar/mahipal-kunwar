@@ -6,7 +6,7 @@
 
 <img align="left" src="https://github.com/mahipal-kunwar.png" width="170" style="border-radius:50%; border:5px solid #38BDF8; padding:4px; background:#0F172A; margin-right:25px; margin-bottom:10px;"/>
 
-# Hi, I'm Mahipal Singh Kunwar 👋
+# Hi, I'm Mahipal Singh Kunwar 
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=false&vCenter=true&width=560&lines=Python+Full+Stack+Developer;Django+%2B+DRF+%7C+REST+APIs;Building+Clean%2C+Scalable+Backends;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG"/>
 
