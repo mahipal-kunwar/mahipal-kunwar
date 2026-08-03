@@ -6,7 +6,7 @@
 
 <img align="left" src="https://github.com/mahipal-kunwar.png" width="170" style="border-radius:50%; border:5px solid #38BDF8; padding:4px; background:#0F172A; margin-right:25px; margin-bottom:10px;"/>
 
-# Hi, I'm Mahipal Singh Kunwar 
+# Hi, I'm Mahipal Singh Kunwar 👋
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=false&vCenter=true&width=560&lines=Python+Full+Stack+Developer;Django+%2B+DRF+%7C+REST+APIs;Building+Clean%2C+Scalable+Backends;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG"/>
 
@@ -17,6 +17,10 @@
 
 ## 🧑‍💻 About Me
 
+<!-- TIP: replace at least one bullet below with a real, specific outcome once you have one —
+     e.g. "Built a Django REST API with JWT auth serving 8 endpoints, deployed on Render"
+     Specific > generic. This is what makes a profile feel genuine instead of templated. -->
+
 - 🎯 Aspiring **Python Full Stack Developer** with hands-on experience building REST APIs using **Django & DRF**
 - 🔭 Currently deepening my backend skills — working on real projects involving authentication, database design, and clean API architecture
 - 🌱 Exploring **Docker, Celery**, and **System Design** to build production-ready, scalable applications
@@ -26,26 +30,45 @@
 
 <br/>
 
-## 🚀 Tech Stack
+## 🚀 Featured Projects
+
+<!-- REPLACE THE PLACEHOLDERS BELOW with your real repos. This section matters more than
+     every badge in this file combined — it's the actual proof behind the "Django & DRF" claim above.
+     Format for each repo card:
+     [![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=mahipal-kunwar&repo=YOUR-REPO-NAME)](https://github.com/mahipal-kunwar/YOUR-REPO-NAME)
+     Pick 3, ideally: one full backend project (auth + DB + API), one smaller focused one
+     (Docker/Celery/testing), and one that shows you can ship something end-to-end. -->
+
+<div align="center">
+
+<a href="https://github.com/mahipal-kunwar" target="_blank">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=mahipal-kunwar&repo=REPLACE-WITH-REPO-1" />
+</a>
+<a href="https://github.com/mahipal-kunwar" target="_blank">
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=mahipal-kunwar&repo=REPLACE-WITH-REPO-2" />
+</a>
+
+</div>
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=python,django,fastapi" />
-
 <br/><br/>
 
 **Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-
 <br/><br/>
 
 **Database**
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
-
 <br/><br/>
 
 **Tools & DevOps**
@@ -61,10 +84,8 @@
 <div align="center">
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=mahipal-kunwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mahipal-kunwar&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-
+<img height="165" src="https://streak-stats.demolab.com/?user=mahipal-kunwar&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 <br/>
-
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mahipal-kunwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="55%"/>
 
 </div>
