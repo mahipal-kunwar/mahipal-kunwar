@@ -1,18 +1,28 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:38BDF8&height=6&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:38BDF8&height=160&section=header&text=Mahipal%20Singh%20Kunwar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%7C%20Django%20%2B%20DRF&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
 <br/>
 
-<img align="left" src="https://github.com/mahipal-kunwar.png" width="170" style="border-radius:50%; border:5px solid #38BDF8; padding:4px; background:#0F172A; margin-right:25px; margin-bottom:10px;"/>
+<table width="100%">
+<tr>
+<td width="180" align="center" valign="top">
+<img src="https://github.com/mahipal-kunwar.png" width="150" style="border-radius:50%; border:4px solid #38BDF8; padding:3px; background:#0F172A;"/>
+</td>
+<td valign="top">
 
-# Hi, I'm Mahipal Singh Kunwar 👋
+### 👋 Hi, I'm Mahipal
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=false&vCenter=true&width=560&lines=Python+Full+Stack+Developer;Django+%2B+DRF+%7C+REST+APIs;Building+Clean%2C+Scalable+Backends;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=false&vCenter=true&width=560&lines=Python+Full+Stack+Developer;Django+%2B+DRF+%7C+REST+APIs;Building+Clean%2C+Scalable+Backends;Learning+Docker%2C+Celery+%26+System+Design;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG"/>
 
-<img src="https://komarev.com/ghpvc/?username=mahipal-kunwar&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile views"/> <img src="https://img.shields.io/github/followers/mahipal-kunwar?label=Followers&style=flat-square&color=38BDF8" alt="Followers"/> <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square&color=22C55E" alt="Open to work"/>
+<img src="https://komarev.com/ghpvc/?username=mahipal-kunwar&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/mahipal-kunwar?label=Followers&style=for-the-badge&color=38BDF8" alt="Followers"/>
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-22C55E?style=for-the-badge" alt="Open to work"/>
 
-<br clear="left"/>
+</td>
+</tr>
+</table>
+
 <br/>
 
 ## 🧑‍💻 About Me
@@ -26,14 +36,22 @@
 - 🌱 Exploring **Docker, Celery**, and **System Design** to build production-ready, scalable applications
 - 🤝 Open to backend / full-stack opportunities where I can contribute and keep growing
 - 💬 Always happy to talk Python, Django, REST APIs, or backend architecture
-- 📫 Reach me at **mahipalkunwar.tech@gmail.com**
+- 📫 Reach me at **[mahipalkunwar.tech@gmail.com](mailto:mahipalkunwar.tech@gmail.com)**
 
 <br/>
 
-<!-- FEATURED PROJECTS: intentionally left out for now — real projects aren't pinned yet.
-     Once 2-3 solid Django/DRF repos are ready and pinned, add a section here using:
-     [![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=mahipal-kunwar&repo=YOUR-REPO-NAME)](https://github.com/mahipal-kunwar/YOUR-REPO-NAME)
-     An empty/placeholder version of this looks worse than not having it at all. -->
+## 🚀 Featured Projects
+
+<!-- Once your projects are pinned, replace this block with real project cards. Example:
+
+[![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=mahipal-kunwar&repo=YOUR-REPO-NAME&theme=tokyonight)](https://github.com/mahipal-kunwar/YOUR-REPO-NAME)
+
+Do this for your 2-3 strongest Django/DRF repos. A pinned project with a clear README (setup steps,
+screenshots, API docs) is one of the biggest trust signals for recruiters — much more than stats cards. -->
+
+> 🔧 Pinning my strongest Django/DRF projects here soon — check back or see the [Pinned](https://github.com/mahipal-kunwar) section above ⬆️
+
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -83,6 +101,14 @@
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=mahipal-kunwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide=stars,prs,issues,contribs" alt="GitHub Stats"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=mahipal-kunwar&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mahipal-kunwar&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </div>
 
 <br/>
