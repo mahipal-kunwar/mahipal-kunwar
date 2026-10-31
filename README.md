@@ -1,96 +1,56 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:38BDF8&height=6&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:38BDF8&height=200&section=header&text=Mahipal+Singh+Kunwar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Python+Backend+Developer&descAlignY=58&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Python+Backend+Developer;Django+%2B+DRF+%7C+REST+APIs;MySQL+%7C+JWT+%7C+Razorpay;Learning+Docker+%26+Celery" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to-Jobs%20%7C%20Internships%20%7C%20Freelance-22C55E?style=flat-square" alt="Open to work"/>
+<img src="https://img.shields.io/badge/Location-Delhi%20NCR%20%7C%20Remote-38BDF8?style=flat-square" alt="Location"/>
+
 </div>
 
 <br/>
 
-<img align="left" src="https://github.com/mahipal-kunwar.png" width="170" style="border-radius:50%; border:5px solid #38BDF8; padding:4px; background:#0F172A; margin-right:25px; margin-bottom:10px;"/>
+## 👨‍💻 About Me
 
-# Hi, I'm Mahipal Singh Kunwar 👋
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=false&vCenter=true&width=560&lines=Python+Full+Stack+Developer;Django+%2B+DRF+%7C+REST+APIs;Building+Clean%2C+Scalable+Backends;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG"/>
-
-<img src="https://komarev.com/ghpvc/?username=mahipal-kunwar&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile views"/> <img src="https://img.shields.io/github/followers/mahipal-kunwar?label=Followers&style=flat-square&color=38BDF8" alt="Followers"/> <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=flat-square&color=22C55E" alt="Open to work"/>
-
-<br clear="left"/>
-<br/>
-
-## 🧑‍💻 About Me
-
-<!-- TIP: replace at least one bullet below with a real, specific outcome once you have one —
-     e.g. "Built a Django REST API with JWT auth serving 8 endpoints, deployed on Render"
-     Specific > generic. This is what makes a profile feel genuine instead of templated. -->
-
-- 🎯 Aspiring **Python Full Stack Developer** with hands-on experience building REST APIs using **Django & DRF**
-- 🔭 Currently deepening my backend skills — working on real projects involving authentication, database design, and clean API architecture
-- 🌱 Exploring **Docker, Celery**, and **System Design** to build production-ready, scalable applications
-- 🤝 Open to backend / full-stack opportunities where I can contribute and keep growing
-- 💬 Always happy to talk Python, Django, REST APIs, or backend architecture
-- 📫 Reach me at **mahipalkunwar.tech@gmail.com**
+- I'm a Python backend developer. I build REST APIs with **Django** and **Django REST Framework**, and work with **MySQL** and SQLite.
+- I've been writing Python for about a year, after a 3-year Diploma in Information Technology and a year of advanced training at ITVedant, Delhi.
+- My latest project is **[ShopSphere](https://github.com/mahipal-kunwar/shopsphere-backend)**, an e-commerce API with JWT auth, signature-verified Razorpay payments, Celery email tasks and 41 automated tests. It's [live on Render](https://shopsphere-backend-mahipal.onrender.com/api/docs/).
+- I also built a **[School Management System](https://github.com/mahipal-kunwar/School_Management_System)** in Django with admin, teacher and student dashboards, attendance tracking and online fee payment.
+- Right now I'm learning Docker, Celery and system design basics.
+- Want to talk backend, or have a role for me? Email me at **mahipalkunwar.tech@gmail.com**
 
 <br/>
-
-<!-- FEATURED PROJECTS: intentionally left out for now — real projects aren't pinned yet.
-     Once 2-3 solid Django/DRF repos are ready and pinned, add a section here using:
-     [![ReadMe Card](https://github-stats-extended.vercel.app/api/pin/?username=mahipal-kunwar&repo=YOUR-REPO-NAME)](https://github.com/mahipal-kunwar/YOUR-REPO-NAME)
-     An empty/placeholder version of this looks worse than not having it at all. -->
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Backend**
+**Core Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi" />
+<img src="https://skillicons.dev/icons?i=python,django,mysql,sqlite" />
+<img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" />
 <br/><br/>
 
-**Frontend**
+**Learning (used in ShopSphere)**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <br/><br/>
 
-**Database**
+**Frontend (basics)**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 <br/><br/>
 
-**Tools & DevOps**
+**Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
-</div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<!-- Stars/PRs/Issues/Contributed-to are hidden below since they're all 0 right now — showing
-     four zeros together reads worse than just showing commits. Re-enable (remove the &hide=...
-     part) once these have real values.
-
-     "Most Used Languages" card is intentionally removed for now — it currently shows JS as the
-     top language, which contradicts the Python/Django positioning above. Fix this the right way
-     (pick one, don't just hide it forever):
-       1. If old JS repos are just tutorial/practice work, exclude them from the calculation:
-          add &exclude_repo=repo-name-1,repo-name-2 to the top-langs URL below, then add the
-          card back in.
-       2. Push more real Django/DRF work — the percentage will shift naturally over time.
-     Card to re-add once fixed:
-     ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=mahipal-kunwar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=repo-name-1,repo-name-2) -->
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=mahipal-kunwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide=stars,prs,issues,contribs" alt="GitHub Stats"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=mahipal-kunwar&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahipal-kunwar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
 </div>
 
 <br/>
@@ -108,8 +68,8 @@
 <a href="mailto:mahipalkunwar.tech@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://instagram.com/mahipal_kunwar02" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="YOUR_RESUME_LINK" target="_blank">
+<img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=readthedocs&logoColor=38BDF8" />
 </a>
 
 </div>
